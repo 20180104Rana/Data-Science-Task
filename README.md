@@ -4,9 +4,15 @@
 # Plot for check if there are null values
 
 There is an null Caffeine value item
+
+
+
 ![1](https://user-images.githubusercontent.com/63797979/181860117-c845151e-bb65-4edc-aaa5-bb3b3b106a76.PNG)
 
 After fill the null value in caffiene
+
+
+
 ![2](https://user-images.githubusercontent.com/63797979/181860118-d8ec7db2-4b37-4aab-932b-9a08f93e444e.PNG)
 
 # Q_1_Which drink has the highest calories from the dataset?
